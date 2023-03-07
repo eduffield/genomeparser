@@ -18,4 +18,7 @@ javac -cp ".:/path/to/your/repos/genomebuddy/json-simple-1.1.1.jar" *.java && ja
 ```
 
 ## Screenshots
-![Example](linkhere)
+![Example](https://github.com/eduffield/genomeparser/blob/main/screenshots/shot1.png)
+![Example](https://github.com/eduffield/genomeparser/blob/main/screenshots/shot2.png)
+![Example](https://github.com/eduffield/genomeparser/blob/main/screenshots/shot3.png)
+![Example](https://github.com/eduffield/genomeparser/blob/main/screenshots/shot4.png)
