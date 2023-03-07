@@ -6,6 +6,13 @@ Credit to the projects below for supplying great resources:
 [fangyidong/json-simple](https://github.com/fangyidong/json-simple)
 [zhaofengli/snappy](https://github.com/zhaofengli/snappy/tree/master/scripts/parsegenotypes.py)
 
+## Features
+-Analyzes user-supplied genomes from a major genomics vendor.
+-Scans genome and reports any known harmful mutations.
+-Color-coded ascii art modelling the user's alleles.
+-Search functionality.
+
+Note: GenomeBuddy must always be supplied with a text file containing the genome in it's directory.
 ## Requirements
 GenomeBuddy requires Java to run. An easy version to install is Amazon Corretto:
 
